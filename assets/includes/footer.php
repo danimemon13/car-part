@@ -1,4 +1,32 @@
-
+    <!-- our app section starts here  -->
+    <section class="our-app text-center">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-4 my-2">
+                    <div class="d-flex align-items-end">
+                        <img src="assets/images/app-1.png" alt="" class="img-fluid our-app-img-1">
+                        <img src="assets/images/app-2.png" alt="" class="img-fluid our-app-img-2">
+                        <div class="flex-grow-1">
+                            <img src="assets/images/qr-code.png" alt="" class="img-fluid">
+                            <p class="mb-0 qr-code-text mt-2">Scan the QR code to <br> download the app</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 my-2">
+                    <p class="p-lg mb-0">Purchasing products via the app is always
+                        cheaper than on the website</p>
+                </div>
+                <div class="col-lg-3 my-2">
+                    <div class="d-flex align-items-center">
+                        <a href="#_" class="d-block"><img src="assets/images/app-store.png" alt=""
+                                class="img-fluid"></a>
+                        <a href="#_" class="d-block"><img src="assets/images/google-play.png" alt=""
+                                class="img-fluid"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- car repair section starts here  -->
     <section class="car-repair py-4">
         <div class="container">

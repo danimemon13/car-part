@@ -158,14 +158,7 @@
     </div>
 </section>
 
-<!-- <div class="msg">
-    <h2>LIMITED EDITION</h2>
-    <h2>ORiginal <span>tRuck</span> parts</h2>
-    <h4>YOUR Truck specialist</h4>
-    <div class="shop_btn">
-        <button class="btn site-btn">Shop Now</button>
-    </div>
-</div> -->
+
 <?php include './assets/includes/footer.php' ?>
 
 
