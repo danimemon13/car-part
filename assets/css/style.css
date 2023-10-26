@@ -1020,3 +1020,51 @@ footer .blue-text{color: #0067D6;}
   border: 1px solid #FF4E00 !important;
   background-image: url("../images/down.png") !important;
 }
+.glasses .img-fluid{
+  width: 100px !important;
+}
+.btn2{
+  border: 1px solid #fe302f;
+  color: #fe302f !important;
+  background-color: transparent;
+}
+.btn2:hover{
+  border: 1px solid #fe302f;
+  color: #fff !important;
+  background-color: #fe302f;
+}
+.btn3{
+  background-color: #fe302f;
+  border: 1px solid #fe302f;
+  color: #fff !important;
+
+}
+.btn3:hover{
+  background-color: transparent;
+  border: 1px solid #fe302f;
+  color: #fe302f !important;
+
+}
+#social ul{
+  display: flex;
+  padding: 0px;
+}
+#social ul li{
+  list-style: none;
+  color: #000;
+  margin: 5px 10px;
+}
+
+
+.details ul {
+  padding: 0px;
+}
+.details ul li{
+  padding: 10px 0px;
+  list-style: none;
+}
+#stars img{
+  width: 16px;
+  height: 16px;
+  margin: 0px 3px;
+}
